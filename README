@@ -5,3 +5,29 @@ We make a lot of soups in the winter, and I like to make various types of bakery
 Creator: matt.gauger@gmail.com
 
 License: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+
+
+give me your IDs to be added to https://github.com/bytnar/recipes/settings/collaboration
+
+1. download https://desktop.github.com/
+2. clone https://github.com/bytnar/recipes
+3. create new branch and push it
+4. choose specific recipe and make a change, commit it
+5. click branch/show PR
+6. add reviewers
+--- everybody done this step
+7. go and give review to your, start conversation
+8. go and apply remarks reviewers gave you
+9. reviewers go to verify and give approval
+10. you're now ready to merge results
+
+- When writing you always have to keep a backup
+- every time you make a change you must comment why you do it
+- you can work simult on multiple recipes (change branch)
+- gamification (stats)
+- https://blog.github.com/2013-04-09-stl-file-viewing/
+- issue tracker https://github.com/frabcus/house/labels/building, labelling, wiki, pdf upload https://github.com/frabcus/house
+- collaboration on church music https://github.com/CMAA/nova-organi-harmonia
+
+- talk about dev process of releaseing
+- show devops recipes and cookbooks
